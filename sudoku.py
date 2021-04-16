@@ -2,7 +2,7 @@
 """
 Created on Thu Nov 5 01:42:06 2019
 
-@author: matth
+@author: matt
 """
 
 #!/usr/bin/env python
